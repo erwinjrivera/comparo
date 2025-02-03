@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|c:\\users\\erwin\\onedrive - kh8cv\\c# projects\\comparo\\comparo\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|solutionrelative:comparo\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\comparo\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|solutionrelative:comparo\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\comparo\\controller\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|solutionrelative:comparo\\controller\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\comparo\\view\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|solutionrelative:comparo\\view\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\comparo\\controller\\fileimportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|solutionrelative:comparo\\controller\\fileimportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\comparo\\model\\importactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|solutionrelative:comparo\\model\\importactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\comparo\\model\\datafilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|solutionrelative:comparo\\model\\datafilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\comparo\\forms\\fileimportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|solutionrelative:comparo\\forms\\fileimportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\comparo\\forms\\fileimportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|solutionrelative:comparo\\forms\\fileimportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\comparo\\service\\textandexceldatareaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|solutionrelative:comparo\\service\\textandexceldatareaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\comparo\\view\\ifileimportview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|solutionrelative:comparo\\view\\ifileimportview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\comparo\\service\\idataextractorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|solutionrelative:comparo\\service\\idataextractorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\comparo\\model\\actiontypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55ABD9F-3364-4145-9260-A68E125487B8}|Comparo\\Comparo.csproj|solutionrelative:comparo\\model\\actiontypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImportActionModel.cs",
+              "DocumentMoniker": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Model\\ImportActionModel.cs",
+              "RelativeDocumentMoniker": "Comparo\\Model\\ImportActionModel.cs",
+              "ToolTip": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Model\\ImportActionModel.cs",
+              "RelativeToolTip": "Comparo\\Model\\ImportActionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T01:23:03.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Comparo\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Forms\\MainForm.cs [Design]*",
+              "RelativeToolTip": "Comparo\\Forms\\MainForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:20:06.535Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Comparo\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Forms\\MainForm.cs*",
+              "RelativeToolTip": "Comparo\\Forms\\MainForm.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:12:11.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TextAndExcelDataReaderService.cs",
+              "DocumentMoniker": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Service\\TextAndExcelDataReaderService.cs",
+              "RelativeDocumentMoniker": "Comparo\\Service\\TextAndExcelDataReaderService.cs",
+              "ToolTip": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Service\\TextAndExcelDataReaderService.cs",
+              "RelativeToolTip": "Comparo\\Service\\TextAndExcelDataReaderService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwEUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T08:16:53.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDataExtractorService.cs",
+              "DocumentMoniker": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Service\\IDataExtractorService.cs",
+              "RelativeDocumentMoniker": "Comparo\\Service\\IDataExtractorService.cs",
+              "ToolTip": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Service\\IDataExtractorService.cs",
+              "RelativeToolTip": "Comparo\\Service\\IDataExtractorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T08:13:34.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileImportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Forms\\FileImportForm.cs",
+              "RelativeDocumentMoniker": "Comparo\\Forms\\FileImportForm.cs",
+              "ToolTip": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Forms\\FileImportForm.cs [Design]",
+              "RelativeToolTip": "Comparo\\Forms\\FileImportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T07:19:09.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ActionTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Model\\ActionTypeEnum.cs",
+              "RelativeDocumentMoniker": "Comparo\\Model\\ActionTypeEnum.cs",
+              "ToolTip": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Model\\ActionTypeEnum.cs",
+              "RelativeToolTip": "Comparo\\Model\\ActionTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T07:10:08.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataFileModel.cs",
+              "DocumentMoniker": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Model\\DataFileModel.cs",
+              "RelativeDocumentMoniker": "Comparo\\Model\\DataFileModel.cs",
+              "ToolTip": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Model\\DataFileModel.cs",
+              "RelativeToolTip": "Comparo\\Model\\DataFileModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:29:56.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFileImportView.cs",
+              "DocumentMoniker": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\View\\IFileImportView.cs",
+              "RelativeDocumentMoniker": "Comparo\\View\\IFileImportView.cs",
+              "ToolTip": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\View\\IFileImportView.cs",
+              "RelativeToolTip": "Comparo\\View\\IFileImportView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:24:44.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileImportController.cs",
+              "DocumentMoniker": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Controller\\FileImportController.cs",
+              "RelativeDocumentMoniker": "Comparo\\Controller\\FileImportController.cs",
+              "ToolTip": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Controller\\FileImportController.cs",
+              "RelativeToolTip": "Comparo\\Controller\\FileImportController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwEwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:23:55.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileImportForm.cs",
+              "DocumentMoniker": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Forms\\FileImportForm.cs",
+              "RelativeDocumentMoniker": "Comparo\\Forms\\FileImportForm.cs",
+              "ToolTip": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Forms\\FileImportForm.cs",
+              "RelativeToolTip": "Comparo\\Forms\\FileImportForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAlwBoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:23:39.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Controller\\MainController.cs",
+              "RelativeDocumentMoniker": "Comparo\\Controller\\MainController.cs",
+              "ToolTip": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\Controller\\MainController.cs",
+              "RelativeToolTip": "Comparo\\Controller\\MainController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:11:11.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMainView.cs",
+              "DocumentMoniker": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\View\\IMainView.cs",
+              "RelativeDocumentMoniker": "Comparo\\View\\IMainView.cs",
+              "ToolTip": "C:\\Users\\erwin\\OneDrive - kh8CV\\C# Projects\\Comparo\\Comparo\\View\\IMainView.cs",
+              "RelativeToolTip": "Comparo\\View\\IMainView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:09:09.571Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
