@@ -32,6 +32,9 @@ namespace Comparo.Controller
 
         public void RefreshImportActions()
         {
+            if (_importActions == null)
+                return;
+
             var sources = _importActions.FindAll(x => x.Action == ActionTypeEnum.Source);
             var targets = _importActions.FindAll(x => x.Action == ActionTypeEnum.Target);
 

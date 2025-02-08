@@ -10,8 +10,11 @@ namespace Comparo.Model
     public class ImportActionModel
     {
         public string FileName { get; set; }
+
         public string Table { get; set; }
-        public ActionTypeEnum Action { get; set; }        
+
         public string OutputTextFile { get; set; }
+
+        public ActionTypesEnum Action { get; set; }
     }
 }

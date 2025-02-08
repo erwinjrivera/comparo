@@ -11,7 +11,7 @@ namespace Comparo.Model
     {
         private string _fileName;
 
-        public FileTypeEnum FileType { get; set; }
+        public FileTypesEnum FileType { get; set; }
 
         public List<string> Tables { get; set; }
 
@@ -31,7 +31,7 @@ namespace Comparo.Model
         private void SetFileType()
         {
             if (string.IsNullOrWhiteSpace(FileName))
-                FileType = FileTypeEnum.Unsupported;
+                FileType = FileTypesEnum.Unsupported;
 
             string extension = Path.GetExtension(FileName).ToLower();
 
@@ -39,21 +39,21 @@ namespace Comparo.Model
             {
                 case ".xls":
                 case ".xlsx":
-                    FileType = FileTypeEnum.Excel;
+                    FileType = FileTypesEnum.Excel;
                     break;
                 case ".csv":
-                    FileType = FileTypeEnum.CSV;
+                    FileType = FileTypesEnum.CSV;
                     //SelectedTable = Path.GetFileName(FileName);
                     Tables = new List<string> { Path.GetFileNameWithoutExtension(FileName) };
                     break;
                 case ".txt":
                 case ".tsv":
-                    FileType = FileTypeEnum.TabDelimited;
+                    FileType = FileTypesEnum.TabDelimited;
                     //SelectedTable = Path.GetFileName(FileName);
                     Tables = new List<string> { Path.GetFileNameWithoutExtension(FileName) };
                     break;
                 default:
-                    FileType = FileTypeEnum.Unsupported; // unknown
+                    FileType = FileTypesEnum.Unsupported; // unknown
                     break;
             }
         }
