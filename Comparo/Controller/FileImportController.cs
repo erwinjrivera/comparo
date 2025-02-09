@@ -28,13 +28,10 @@ namespace Comparo.Controller
         public void Initialize()
         {
             _view.InitializeControls();
-            _view.ShowLoading(false);
             _view.FileName = _model.DataFile.FileName;
-            _view.ShowLoading(true, "Reading file. Please wait...");
+            
 
             GetWorksheets();
-
-            _view.ShowLoading(false, string.Empty);
         }
 
         public bool ValidateImportActions()
@@ -63,7 +60,7 @@ namespace Comparo.Controller
 
             if (_model.DataFile.FileType == FileTypeEnum.Excel)
             {
-                _view.ShowLoading(true, "Importing file. Please wait...");
+                _view.ShowLoading(true, "Importing file, please wait...");
 
                 foreach (var item in toBeImported)
                 {
@@ -73,7 +70,9 @@ namespace Comparo.Controller
                         + "-" + item.Action.ToString()                        
                         + ".txt";
 
-                    item.OutputTextFile = Path.Combine(directory, fileName);
+                    var finalFileName = Controller.Utilities.FileUtility.GetUniqueFileName(false, Path.Combine(directory, fileName));
+
+                    item.OutputTextFile = finalFileName;
                     
 
                     await _service.ConvertExcelToTextAsync(item.FileName, item.Table, item.OutputTextFile);
@@ -85,12 +84,16 @@ namespace Comparo.Controller
 
         private async void GetWorksheets()
         {
+            _view.ShowLoading(true, "Reading file, please wait...");
+
             if (_model.DataFile.FileType == FileTypeEnum.Excel)
             {
                 _model.DataFile.Tables = await _service.GetWorksheetNamesAsync(_model.DataFile.FileName);
             }
 
             DisplayImportActions();
+
+            _view.ShowLoading(false, string.Empty);
         }
 
         private void DisplayImportActions()

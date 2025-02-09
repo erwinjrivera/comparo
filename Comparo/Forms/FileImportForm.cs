@@ -64,6 +64,7 @@ namespace Comparo.Forms
 
         public void InitializeControls()
         {
+            toolStripStatusLabel1.Text = string.Empty;
             dataGridView1.AutoGenerateColumns = false;
 
             // Create and configure columns
@@ -78,11 +79,13 @@ namespace Comparo.Forms
             {
                 DataPropertyName = "Action",
                 HeaderText = "Import As",
-                DataSource = Enum.GetValues(typeof(ActionTypeEnum))
+                DataSource = Enum.GetValues(typeof(ActionTypeEnum)),
+                Width = 60
             };
 
             dataGridView1.Columns.Add(tableColumn);
             dataGridView1.Columns.Add(actionColumn);
+            dataGridView1.Columns[1].Width = 80;
         }
 
         public List<ImportActionModel> ImportActions
@@ -111,7 +114,11 @@ namespace Comparo.Forms
 
         public void ShowLoading(bool isLoading, string message)
         {
+            btnCancel.Enabled = !isLoading;
+            btnOk.Enabled = !isLoading;
+
             toolStripStatusLabel1.Text = message;
+            toolStripProgressBar1.Visible = isLoading;
         }
 
 
